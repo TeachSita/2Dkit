@@ -403,11 +403,6 @@ PrefabInstance:
       propertyPath: transitioningGameObject
       value: 
       objectReference: {fileID: 1141565045}
-    - target: {fileID: 114808708404685106, guid: f949db0cfd21cb34796d46f92ac4fb1a,
-        type: 3}
-      propertyPath: destinationTag
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f949db0cfd21cb34796d46f92ac4fb1a, type: 3}
 --- !u!114 &171782614 stripped
