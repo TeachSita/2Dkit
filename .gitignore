@@ -29,7 +29,7 @@ ExportedObj/
 *.VC.db
 
 # my files 
-#T.txt
+T.txt
 
 # Unity3D generated meta files
 *.pidb.meta
