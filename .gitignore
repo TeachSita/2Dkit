@@ -1,11 +1,13 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
 /Assets/AssetStoreTools*
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+
+# Tracking all build will take up too much space. Only track a build if really necessary.
+/[Bb]uild/
+/[Bb]uilds/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -29,9 +31,6 @@ ExportedObj/
 *.pdb
 *.opendb
 *.VC.db
-
-# my files 
-T.txt
 
 # Unity3D generated meta files
 *.pidb.meta
