@@ -326,6 +326,7 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &114659098
 GameObject:
   m_ObjectHideFlags: 0
@@ -408,6 +409,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 2030796 (Level transition added lvl 2 to 3)
 =======
 >>>>>>> parent of 2030796 (Level transition added lvl 2 to 3)
 --- !u!1 &126852619
@@ -3094,6 +3097,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
   - first: {x: -2, y: -1, z: 0}
+<<<<<<< HEAD
+=======
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -3112,6 +3117,34 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
   - first: {x: 0, y: -1, z: 0}
+>>>>>>> parent of 2030796 (Level transition added lvl 2 to 3)
+    second:
+      serializedVersion: 2
+      m_TileIndex: 0
+      m_TileSpriteIndex: 1
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      m_AllTileFlags: 1073741826
+<<<<<<< HEAD
+  - first: {x: -1, y: -1, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 0
+      m_TileSpriteIndex: 1
+=======
+  - first: {x: 1, y: -1, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 0
+      m_TileSpriteIndex: 45
+>>>>>>> parent of 2030796 (Level transition added lvl 2 to 3)
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      m_AllTileFlags: 1073741826
+<<<<<<< HEAD
+  - first: {x: 0, y: -1, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 0
@@ -3129,6 +3162,8 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741826
+=======
+>>>>>>> parent of 2030796 (Level transition added lvl 2 to 3)
   - first: {x: 2, y: -1, z: 0}
     second:
       serializedVersion: 2
@@ -3320,10 +3355,17 @@ CompositeCollider2D:
       - X: -9980000
         Y: -9601550
       - X: -9091563
+<<<<<<< HEAD
         Y: -9794688
       - X: 9999
         Y: -9794688
       - X: 9999
+=======
+        Y: -9794688
+      - X: 9999
+        Y: -9794688
+      - X: 9999
+>>>>>>> parent of 2030796 (Level transition added lvl 2 to 3)
         Y: -9601550
       - X: 898437
         Y: -9794688
@@ -3977,6 +4019,7 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &2009429989
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4054,6 +4097,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b38e9ca90e4033c4bb4554a41a283698, type: 3}
+=======
+>>>>>>> parent of 2030796 (Level transition added lvl 2 to 3)
 =======
 >>>>>>> parent of 2030796 (Level transition added lvl 2 to 3)
 --- !u!1 &2033939093
